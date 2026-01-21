@@ -1,0 +1,5 @@
+{
+  "name": "Thai Stock Dashboard",
+  "description": "แดชบอร์ดติดตามหุ้นอัจฉริยะที่เชื่อมต่อข้อมูลจำลองจาก Google Finance และใช้ Gemini AI ในการวิเคราะห์แนวโน้มตลาดแบบเรียลไทม์",
+  "requestFramePermissions": []
+}
